@@ -1,0 +1,4 @@
+- Django Application for users to keep track of tasks
+- Custom views and URLs to handle user authentication, such as login, logout, and password resets.
+- Includes CSRF protection with tokens, SHA-256 salted hashed passwords, and user authorization.
+- Stores users’ task details, completion status, and timestamps and allows filtering based on task title.
